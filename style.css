@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('background.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+.street_fighter{
+    position: relative;
+    width: 80%;
+    margin: 20px 80px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pac_man{
+    position: relative;
+    width: 80%;
+    margin: 20px 80px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.snake{
+    position: relative;
+    width: 80%;
+    margin: 20px 80px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.super_mario{
+    position: relative;
+    width: 80%;
+    margin: 20px 80px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
